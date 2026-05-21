@@ -1,0 +1,39 @@
+INTERNAL|Do you want to go on a trip?
+INTERNAL|Do you want to go to Asia?
+INTERNAL|Do you want to go to an island?
+INTERNAL|Do you want to go to a smaller island than Japan?
+LEAF|Taiwan
+LEAF|Japan
+INTERNAL|Do you want to go somewhere cold?
+INTERNAL|Do you want to go to a big city?
+LEAF|Beijing
+LEAF|Shanghai
+INTERNAL|Do you want somewhere more remote?
+LEAF|Russia
+LEAF|Mongolia
+INTERNAL|Do you want to go to the beach?
+INTERNAL|Do you want a more city like location?
+INTERNAL|Do you prefer the East Coast?
+INTERNAL|Do you want somewhere warmer on the East Coast?
+LEAF|Miami
+LEAF|Washington
+LEAF|New York
+INTERNAL|Do you prefer warm weather?
+LEAF|LA
+LEAF|Seattle
+INTERNAL|Do you want to go somewhere surfy?
+LEAF|Hawaii
+INTERNAL|Do you prefer a quieter trip?
+LEAF|Portland
+LEAF|Colorado
+INTERNAL|Do you want to go to Europe?
+INTERNAL|Do you want somewhere with a lot of history?
+INTERNAL|Do you prefer southern Europe?
+LEAF|Rome
+LEAF|Spain
+LEAF|Paris
+INTERNAL|Do you want somewhere colder in Europe?
+INTERNAL|Do you want to see the Northern Lights?
+LEAF|Iceland
+LEAF|Norway
+LEAF|Denmark
